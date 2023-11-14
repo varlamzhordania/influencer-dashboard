@@ -5,13 +5,15 @@ import { getAuth } from "firebase/auth";
 import { getDatabase } from "firebase/database"; 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC-958cBYuTb_N_8fPBtQPVFEmsqd7HYXg",
-  authDomain: "influence-11524.firebaseapp.com",
-  projectId: "influence-11524",
-  storageBucket: "influence-11524.appspot.com",
-  messagingSenderId: "149063262319",
-  appId: "1:149063262319:web:705d10cf8328b931bb6d9a"
+  apiKey: "AIzaSyDe6SH_nH4xmWhBs2-wZw5YX9Hh__b4VPw",
+  authDomain: "influencer-391217.firebaseapp.com",
+  projectId: "influencer-391217",
+  storageBucket: "influencer-391217.appspot.com",
+  messagingSenderId: "1035208711318",
+  appId: "1:1035208711318:web:996db5eb7ad3cb509ff6b7",
+  measurementId: "G-GEZDFPPN3N"
 };
+
 
 const app = initializeApp(firebaseConfig);
 
