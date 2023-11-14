@@ -1,0 +1,25 @@
+[debug] [2023-11-14T13:04:42.456Z] ----------------------------------------------------------------------
+[debug] [2023-11-14T13:04:42.458Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Amir\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2023-11-14T13:04:42.458Z] CLI Version:   12.8.1
+[debug] [2023-11-14T13:04:42.459Z] Platform:      win32
+[debug] [2023-11-14T13:04:42.459Z] Node Version:  v20.9.0
+[debug] [2023-11-14T13:04:42.459Z] Time:          Tue Nov 14 2023 17:04:42 GMT+0400 (Georgia Standard Time)
+[debug] [2023-11-14T13:04:42.459Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-11-14T13:04:42.530Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-11-14T13:04:42.531Z] > authorizing via signed-in user (zhordaniavarlam@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Amir\Pictures\Portfolio\Dataclarity\web application\Influencers-dashboard-main
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
